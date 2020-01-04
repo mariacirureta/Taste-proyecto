@@ -1,0 +1,25 @@
+/*nav{align-items: 
+margin-top:5px;
+position: static;}*/
+
+.nav-link{color: black;
+text-decoration:none;}
+
+ion-icon:hover{ color:#b21f66; }
+
+ion-icon { font-size: 25px;
+color: black;}
+
+.conteinercarruselhome{padding: 30px;
+margin-top:20px;
+margin-bottom: 20px;}
+
+.conteinervideohome{ background:#b21f66;
+padding-top: 10px}
+
+iframe{position: relative;}
+
+/*
+footer{color:black
+margin-top:30px;
+margin-bottom:40px;}*/
